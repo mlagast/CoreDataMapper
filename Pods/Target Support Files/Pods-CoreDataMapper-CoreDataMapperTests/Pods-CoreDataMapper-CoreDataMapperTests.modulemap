@@ -1,0 +1,6 @@
+framework module Pods_CoreDataMapper_CoreDataMapperTests {
+  umbrella header "Pods-CoreDataMapper-CoreDataMapperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
